@@ -49,5 +49,5 @@ function mudarTema() {
 }
 
 function mostrarListasSalvas() {
-  window.location.href = "/Pages/listas.html";
+  window.location.href = "Pages/listas.html";
 }
